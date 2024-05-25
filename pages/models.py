@@ -14,4 +14,10 @@ class Team(models.Model):
 
     def __str__(self):
         return self.first_name
-    
+ 
+    #Tc=models.AutoField(auto_created=True,primary_key=True, serialize=True)
+    #Ad_Soyad=models.CharField(max_length=255)
+    # Brans=models.CharField(max_length=255)
+    #Adres=models.CharField(max_length=255)
+    #Telefon=models.CharField(max_length=15)
+    #photo=models.ImageField(upload_to='photos/%Y/%m/%d/')
