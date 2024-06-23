@@ -3,6 +3,7 @@ from .models import Car
 from django.core.paginator import EmptyPage, PageNotAnInteger, Paginator
 
 # Create your views here.
+# for call home.html
 
 def cars(request):
     cars = Car.objects.order_by('-created_date')

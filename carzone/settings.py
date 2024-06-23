@@ -27,6 +27,7 @@ SECRET_KEY = "django-insecure-u8%1+1g3mb2!d=_n!ts8cji#de@yc+)u+zv6orjaebuoa1epj5
 DEBUG = True
 
 ALLOWED_HOSTS = []
+LOGIN_REDIRECT_URL = 'dashboard'
 
 
 # Application definition
@@ -34,6 +35,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'cars.apps.CarsConfig',
     'pages.apps.PagesConfig',
+    'accounts.apps.AccountsConfig',
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
@@ -42,7 +44,17 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     'ckeditor',
     'django.contrib.humanize',
+    #'django.contrib.sites',
+    #'allauth',
+    #'allauth.account',
+    #'allauth.socialaccount',
+
+    #Providers
+    #'allauth.socialaccount.providers.facebook',
+    #'allauth.socialaccount.providers.google',
+
 ]
+
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
@@ -52,6 +64,8 @@ MIDDLEWARE = [
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
+    # Add allauth middleware here:
+    #'allauth.account.middleware.AccountMiddleware',
 ]
 
 ROOT_URLCONF = "carzone.urls"
@@ -133,6 +147,13 @@ STATICFILES_DIRS = [
 MEDIA_ROOT=os.path.join(BASE_DIR,'media')
 MEDIA_URL='/media/'
 
+#Messages
+from django.contrib.messages import constants as messages
+MESSAGES_TAGS = {
+    messages.ERROR: 'danger',
+    50: 'critical',
+}
+#SITE_ID = 1
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 

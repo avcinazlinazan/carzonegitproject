@@ -1,5 +1,5 @@
 {% extends 'base.html' %}
-
+{% block title %} | Services {% endblock %}
 {% block content %}
 {% load static %}
 
@@ -36,6 +36,7 @@
                     <div class="detail">
                         <h3>Free Support</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        
                     </div>
                 </div>
             </div>
@@ -46,8 +47,65 @@
                         <i class="flaticon-speed"></i>
                     </div>
                     <div class="detail">
-                        <h3>Super Fast</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <h3>Car Price</h3>
+                        
+                            <div align='center' class="main"> 
+                        
+                                <div class="row"> 
+                                    <h2><em>{{result2}}</em></h2> <br /> 
+                                </div> 
+                                <form action="predict"> 
+                                
+                                    <table>
+                                        <tr> 
+                                            <td align="left"> <strong>Make Model  </strong> </td> 
+                                            <td align="left"><input type="text" name="make_model" class="form-control"></td> 
+                                        </tr> 
+                                        <tr>
+                                            <td align="left"> <strong>Body Type  </strong> </td> 
+                                            <td align="left"><input type="text" name="body_type" class="form-control"></td> 
+                                        </tr> 
+                                        <tr> 
+                                            <td align="left"><strong>Km  </strong> </td> 
+                                            <td align="left"><input type="text" name="km" class="form-control"></td> 
+                                        </tr>  
+                                        <tr> 
+                                            <td align="left"> <strong>Fuel  </strong> </td> 
+                                            <td align="left"><input type="text" name="Fuel" class="form-control"></td> 
+                                        </tr> 
+                                        <tr> 
+                                            <td align="left"> <strong>Age  </strong> </td> 
+                                            <td align="left"><input type="text" name="age" class="form-control"></td> 
+                                        </tr> 
+                                        <tr> 
+                                            <td align="left"> <strong>horse power </strong> </td> 
+                                            <td align="left"><input type="text" name="hp_kW" class="form-control"></td> 
+                                        </tr> 
+                                        <tr> 
+                                            <td align="left"> <strong>transmission type </strong> </td> 
+                                            <td align="left"><input type="text" name="Gearing_Type" class="form-control"></td> 
+                                        </tr> 
+                                
+                                        <tr> 
+                                            <td align="left"> <strong>Engine capacity </strong> </td> 
+                                            <td align="left"><input type="text" name="Displacement_cc" class="form-control"></td> 
+                                        </tr> 
+                                    
+                                    
+                                        <tr> 
+                                            <td align="left"> <strong>Weight </strong> </td> 
+                                            <td align="left"><input type="text" name="Weight_kg" class="form-control"></td> 
+                                        </tr> 
+                                        <tr> 
+                                            <td align="left"> <strong>fuel consumption </strong> </td> 
+                                            <td align="left"><input type="text" name="cons_comb" class="form-control"></td> 
+                                        </tr> 
+                                    
+                                    </table> 
+                                <input type="submit" value="PREDICT" class="btn btn-outline-danger bomd btn-block btn-lg">
+                                </form> 
+                               
+                            </div> </p>
                     </div>
                 </div>
             </div>

@@ -3,6 +3,7 @@
 <header class="main-header sticky-header header-with-top">
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light">
+        
             <a class="navbar-brand company-logo" href="{% url 'home' %}">
                 <img src="carzone/static/img/logos/black-logo.png" alt="logo">
             </a>
@@ -33,6 +34,7 @@
                             Cars
                         </a>
                     </li>
+            
                     <li class="nav-item">
                         <a 
                         {% if 'about' in request.path %}
@@ -70,6 +72,9 @@
                         <a href="#full-page-search" class="nav-link h-icon">
                             <i class="fa fa-search"></i>
                         </a>
+                    </li>
+                    <a class="navbar-brand company-logo" href="http://127.0.0.1:8000/home"></a>
+            
                     </li>
                 </ul>
             </div>

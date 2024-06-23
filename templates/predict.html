@@ -1,0 +1,143 @@
+{%load static%} 
+
+
+<!DOCTYPE html> 
+<html lang="en"> 
+  
+<head> 
+    <meta charset="UTF=8"> 
+    <title> Prediction page</title> 
+    <style> 
+        td { 
+            font-size: 17px; 
+        } 
+  
+        body { 
+            background-color: black; 
+            background-image: url(https://i.ibb.co/PNSXdwC/img4-3.jpg); 
+            background-size: cover; 
+            background-repeat: no-repeat; 
+  
+        } 
+  
+        .main { 
+              
+            top: 80px; 
+            left: 110px; 
+            width: 550px; 
+            margin-left: 7%; 
+            background-color: white; 
+            border-radius: 15px; 
+            height: 110vh; 
+            align-items: center; 
+  
+        } 
+  
+        .main:hover { 
+            box-shadow: 50px 0px 20px 0px rgba(0, 0, 0, 0.2); 
+  
+        } 
+  
+        h1 { 
+            font-family: Times New Roman; 
+            margin: 20px, 0; 
+            color: #F6465B; 
+            font-size: 30px; 
+            font-weight: bold; 
+            animation-delay: 3.5s; 
+        } 
+  
+        input[type=submit] { 
+            background-color: #FFA500; 
+            border: 2px; 
+            color: white; 
+            font-size: 15px; 
+            font-weight: bold; 
+            padding: 10px 16px; 
+            cursor: pointer; 
+            margin-top: 15px; 
+            border-radius: 10px; 
+        } 
+  
+        input { 
+            padding: 20px, 0; 
+            margin: 20px, 0; 
+        } 
+  
+        p { 
+            color: #ffffff; 
+        } 
+  
+        .row em { 
+            color: #BF0A30; 
+  
+        } 
+  
+        .gfg { 
+            color: green; 
+            font-size: 30px; 
+        } 
+    </style> 
+</head> 
+
+<body> 
+    <p><em>WELCOME TO THE PREDICT PAGE</em></P> 
+    <div align='center' class="main"> 
+        <h1 class="gfg">Car Zone </h1> 
+        <h1> Car Price Prediction</h1> <br /> 
+        <form action="result"> 
+            <table>
+                <tr> 
+                    <td align="right" > <strong>make_model</strong> </td> 
+                    <td align="left"><input type="text" name="make_model"></td> 
+                </tr> 
+                <tr> 
+                    <td align="right"> <strong>body_type</strong> </td> 
+                    <td align="left"><input type="text" name="body_type"></td> 
+                </tr> 
+                <tr> 
+                    <td align="right"><strong>km:</strong> </td> 
+                    <td align="left"><input type="text" name="km"></td> 
+                </tr>  
+                <tr> 
+                    <td align="right"> <strong>Fuel</strong> </td> 
+                    <td align="left"><input type="text" name="Fuel"></td> 
+                </tr> 
+                <tr> 
+                    <td align="right"> <strong>Age:</strong> </td> 
+                    <td align="left"><input type="text" name="age"></td> 
+                </tr> 
+                <tr> 
+                    <td align="right"> <strong>hp_kW</strong> </td> 
+                    <td align="left"><input type="text" name="hp_kW"></td> 
+                </tr> 
+                <tr> 
+                    <td align="right"> <strong>Gearing_Type</strong> </td> 
+                    <td align="left"><input type="text" name="Gearing_Type"></td> 
+                </tr> 
+        
+                <tr> 
+                    <td align="right"> <strong>Displacement_cc</strong> </td> 
+                    <td align="left"><input type="text" name="Displacement_cc"></td> 
+                </tr> 
+            
+            
+                <tr> 
+                    <td align="right"> <strong>Weight_kg:</strong> </td> 
+                    <td align="left"><input type="text" name="Weight_kg"></td> 
+                </tr> 
+                <tr> 
+                    <td align="right"> <strong>cons_comb:</strong> </td> 
+                    <td align="left"><input type="text" name="cons_comb"></td> 
+                </tr> 
+            
+            </table> 
+            <input type="submit" value="PREDICT"> 
+        </form> 
+        <div class="row"> 
+            <h2><em>{{result2}}</em></h2> 
+        </div> 
+    </div> 
+</body> 
+  
+</html>

@@ -1,0 +1,1075 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "Ferrari",
+        "state": "NM",
+        "city": "newyork",
+        "color": "beyaz",
+        "model": "2017",
+        "year": 2017,
+        "condition": "cc",
+        "price": 25000,
+        "description": "<p>zsxzxcz</p>",
+        "car_photo": "photos/2023/11/25/1902537082.jpg",
+        "car_photo_1": "photos/2023/11/25/1902536917.jpg",
+        "car_photo_2": "photos/2023/11/25/1902537043.jpg",
+        "car_photo_3": "photos/2023/11/25/1902537077.jpg",
+        "car_photo_4": "photos/2023/11/25/1902536891.jpg",
+        "features": "Audio Interface,Air Conditioning,ParkAssist,Reversing Camera,Auto Start/Stop",
+        "body_style": "szxd",
+        "engine": "zz",
+        "transmission": "zx",
+        "interior": "zx",
+        "miles": 3,
+        "doors": "4",
+        "passengers": 2,
+        "vin_no": "12",
+        "milage": 4,
+        "fuel_type": "sdfs",
+        "no_of_owners": "xd",
+        "is_featured": true,
+        "created_date": "2023-11-25T14:55:32Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "Ferrari",
+        "state": "AZ",
+        "city": "newyork",
+        "color": "beyaz",
+        "model": "2017",
+        "year": 2017,
+        "condition": "cc",
+        "price": 55000,
+        "description": "<p>yeni kayýt</p>",
+        "car_photo": "photos/2023/11/26/1902536917.jpg",
+        "car_photo_1": "photos/2023/11/26/1902537043.jpg",
+        "car_photo_2": "photos/2023/11/26/1902536891.jpg",
+        "car_photo_3": "photos/2023/11/26/1902537077.jpg",
+        "car_photo_4": "photos/2023/11/26/1902537082.jpg",
+        "features": "Alarm System,ParkAssist,Direct Fuel Injection",
+        "body_style": "szxd",
+        "engine": "ghb",
+        "transmission": "gh",
+        "interior": "gh",
+        "miles": 3,
+        "doors": "3",
+        "passengers": 12,
+        "vin_no": "23",
+        "milage": 4,
+        "fuel_type": "sdfs",
+        "no_of_owners": "xd",
+        "is_featured": true,
+        "created_date": "2023-11-26T23:56:42Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "Ferrari",
+        "state": "AK",
+        "city": "newyork",
+        "color": "beyaz",
+        "model": "2017",
+        "year": 2017,
+        "condition": "cc",
+        "price": 55000,
+        "description": "<p>dfgdd</p>",
+        "car_photo": "photos/2023/11/26/1902536917_mWlKlhu.jpg",
+        "car_photo_1": "photos/2023/11/26/1902537082_swr33FW.jpg",
+        "car_photo_2": "photos/2023/11/26/1902537043_libLsmd.jpg",
+        "car_photo_3": "photos/2023/11/26/1902536891_imiFApA.jpg",
+        "car_photo_4": "photos/2023/11/26/1902536917_ydvkEQK.jpg",
+        "features": "Direct Fuel Injection,Auto Start/Stop",
+        "body_style": "szxd",
+        "engine": "ghb",
+        "transmission": "gh",
+        "interior": "gh",
+        "miles": 3,
+        "doors": "4",
+        "passengers": 12,
+        "vin_no": "23",
+        "milage": 4,
+        "fuel_type": "sdfs",
+        "no_of_owners": "xd",
+        "is_featured": true,
+        "created_date": "2023-11-26T23:57:59Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "BMW",
+        "state": "AZ",
+        "city": "berlin",
+        "color": "kýrmýzý",
+        "model": "2017",
+        "year": 2017,
+        "condition": "cc",
+        "price": 500000,
+        "description": "<p>en g&uuml;zel araba</p>",
+        "car_photo": "photos/2023/11/27/1902932503.jpg",
+        "car_photo_1": "photos/2023/11/27/1902932514.jpg",
+        "car_photo_2": "photos/2023/11/27/1902932528.jpg",
+        "car_photo_3": "photos/2023/11/27/1902932542.jpg",
+        "car_photo_4": "photos/2023/11/27/1902932514_RVETewr.jpg",
+        "features": "Cruise Control,Audio Interface,Alarm System",
+        "body_style": "szxd",
+        "engine": "ghb",
+        "transmission": "gh",
+        "interior": "gh",
+        "miles": 3,
+        "doors": "3",
+        "passengers": 3,
+        "vin_no": "24",
+        "milage": 3,
+        "fuel_type": "sdfs",
+        "no_of_owners": "xd",
+        "is_featured": true,
+        "created_date": "2023-11-27T00:22:18Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "Toyota",
+        "state": "AK",
+        "city": "as",
+        "color": "kýrmýzý",
+        "model": "corolla",
+        "year": 2002,
+        "condition": "aa",
+        "price": 150000,
+        "description": "<p>Bu araba</p>",
+        "car_photo": "photos/2024/03/13/1902932542.jpg",
+        "car_photo_1": "photos/2024/03/13/1902932542_ZZBWkug.jpg",
+        "car_photo_2": "photos/2024/03/13/1902932514_RVETewr.jpg",
+        "car_photo_3": "photos/2024/03/13/1902932503.jpg",
+        "car_photo_4": "photos/2024/03/13/1902932528.jpg",
+        "features": "Air Conditioning,Reversing Camera,Direct Fuel Injection",
+        "body_style": "sedan",
+        "engine": "önden çekiþ",
+        "transmission": "d",
+        "interior": "d",
+        "miles": 4,
+        "doors": "2",
+        "passengers": 3,
+        "vin_no": "d",
+        "milage": 3,
+        "fuel_type": "dizel",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2024-03-13T11:17:55Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "Toyota",
+        "state": "AZ",
+        "city": "m",
+        "color": "kýrmýzý",
+        "model": "corolla",
+        "year": 2003,
+        "condition": "aa",
+        "price": 150,
+        "description": "<p>bu toyota coralla araba&nbsp;</p>",
+        "car_photo": "photos/2024/03/13/1902537082_swr33FW.jpg",
+        "car_photo_1": "photos/2024/03/13/1902537043.jpg",
+        "car_photo_2": "photos/2024/03/13/1902536891.jpg",
+        "car_photo_3": "photos/2024/03/13/1902537077.jpg",
+        "car_photo_4": "photos/2024/03/13/1902537082.jpg",
+        "features": "Cruise Control,Alarm System,Auto Start/Stop",
+        "body_style": "sedan",
+        "engine": "önden çekiþ",
+        "transmission": "d",
+        "interior": "d",
+        "miles": 4,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "d",
+        "milage": 7,
+        "fuel_type": "dizel",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2024-03-13T11:52:47Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 7,
+    "fields": {
+        "car_title": "Ford",
+        "state": "AL",
+        "city": "Ortaköy",
+        "color": "kýrmýzý",
+        "model": "Fokus",
+        "year": 2003,
+        "condition": "fgbv",
+        "price": 120000,
+        "description": "<p>hjmnh</p>",
+        "car_photo": "photos/2024/05/13/car-1.jpg",
+        "car_photo_1": "photos/2024/05/13/car-5.jpg",
+        "car_photo_2": "photos/2024/05/13/car-4.jpg",
+        "car_photo_3": "photos/2024/05/13/car-7.jpg",
+        "car_photo_4": "photos/2024/05/13/car-6.jpg",
+        "features": "Cruise Control,Direct Fuel Injection",
+        "body_style": "sedan",
+        "engine": "hp",
+        "transmission": "otomatik",
+        "interior": "ghg",
+        "miles": 15,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "vbvb",
+        "milage": 46000,
+        "fuel_type": "mazot",
+        "no_of_owners": "3",
+        "is_featured": true,
+        "created_date": "2024-05-13T18:21:31Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 8,
+    "fields": {
+        "car_title": "Fiat",
+        "state": "AK",
+        "city": "Akpýnar",
+        "color": "metal",
+        "model": "Palio",
+        "year": 2005,
+        "condition": "fgbv",
+        "price": 250000,
+        "description": "<p><strong><span style=\"background-color:#e74c3c\">benim arabam</span></strong></p>",
+        "car_photo": "photos/2024/05/13/small-car-2.jpg",
+        "car_photo_1": "photos/2024/05/13/car-6_wWrfysZ.jpg",
+        "car_photo_2": "photos/2024/05/13/1902932514.jpg",
+        "car_photo_3": "photos/2024/05/13/1900893311.jpg",
+        "car_photo_4": "photos/2024/05/13/1900893311_wuYxviV.jpg",
+        "features": "Cruise Control,Auto Start/Stop",
+        "body_style": "suv",
+        "engine": "hp",
+        "transmission": "otomatik",
+        "interior": "ghg",
+        "miles": 13,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "cv",
+        "milage": 12000,
+        "fuel_type": "benzin",
+        "no_of_owners": "2",
+        "is_featured": false,
+        "created_date": "2024-05-13T18:23:14Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 12,
+    "fields": {
+        "first_name": "Canan",
+        "last_name": "can",
+        "designation": "Psikolojist",
+        "photo": "photos/2023/11/29/avatar-2.jpg",
+        "facebook_link": "http://facebook.com",
+        "twitter_link": "http://twitter.com",
+        "google_plus_link": "http://google.com",
+        "create_date": "2023-11-29T20:38:54.603Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 13,
+    "fields": {
+        "first_name": "Nazlý Nazan",
+        "last_name": "Avcý",
+        "designation": "Psikolojist",
+        "photo": "photos/2023/11/29/avatar-10.jpg",
+        "facebook_link": "http://facebook.com",
+        "twitter_link": "http://twitter.com",
+        "google_plus_link": "http://google.com",
+        "create_date": "2023-11-29T20:39:12.209Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$320000$94k1Me8TDMsKe943CyOErH$BqtTqy316qarR2XdkZEcFSnb5g/iW5+G04cUJZx2/7A=",
+        "last_login": "2024-05-26T10:17:29.455Z",
+        "is_superuser": true,
+        "username": "djangoadmin",
+        "first_name": "Nazlý Nazan",
+        "last_name": "Avcý",
+        "email": "avcinazlinazan@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-09-05T08:46:33Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$320000$OGTOUVNHQHnBrEddryBVqG$ICBffXtm+eiwkd7Be/Kt4Nw8oi3JckCnsukWX/A1zd8=",
+        "last_login": "2024-05-26T08:09:08.367Z",
+        "is_superuser": false,
+        "username": "nazlican",
+        "first_name": "sdes",
+        "last_name": "sds",
+        "email": "dss@cxz.co",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-05-26T08:09:08.009Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$320000$OxLmzW5GlxGIkrb0y2nqQM$yQdIMutgkRjOlqnhm44IYMJUrRQ7DkWbIvU434c7+bs=",
+        "last_login": "2024-05-26T10:18:22.269Z",
+        "is_superuser": false,
+        "username": "evet",
+        "first_name": "ben",
+        "last_name": "benim",
+        "email": "evet@gm.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-05-26T10:18:00.189Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "3g9kw84bbp4bgs3428ozbsq7idrek0zs",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlnxf0NJnzNYu_7gALKlOKkQdyeRUkD7Zua9mcdtLX7rafFzZFcm2OV3IwzPVA8QH1jvjYdW12Umfij8pJ1PLabX7XT_Dgr2stcGgshETmur9CilcSa7BNYQWociyZGCgiFqMGB1TJTNoKIEbfcEMLDPF8isNyw:1rjRxV:yjb_6sYzFcydzBgJtkbbjDwCeUfzuBCksqYkTRRPW_s",
+        "expire_date": "2024-03-24T22:47:57.301Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "dqbl9ksz136w2q2ih04v1swzcrsqju7v",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlnxf0NJnzNYu_7gALKlOKkQdyeRUkD7Zua9mcdtLX7rafFzZFcm2OV3IwzPVA8QH1jvjYdW12Umfij8pJ1PLabX7XT_Dgr2stcGgshETmur9CilcSa7BNYQWociyZGCgiFqMGB1TJTNoKIEbfcEMLDPF8isNyw:1rEprE:XantsZF7OiQAXx8kgDcoVK60joa-T67WyhrhU5cXm40",
+        "expire_date": "2023-12-31T12:02:56.147Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "efp2fzf1ru4756kmdg3yacfp8hp88kmo",
+    "fields": {
+        "session_data": ".eJxVjEsOAiEQBe_C2hD5CI1L956BNDQtowaSYWZlvLtOMgvdvqp6LxFxXWpcR5njROIslDj8bgnzo7QN0B3brcvc2zJPSW6K3OmQ107ledndv4OKo35rzA5BKSQPPuviQzpBAEQgMKzZaZWDR6WZObM3lpIDDNYap45GOxDvD_HhN7o:1qdRiS:R-ZrnDoFhtwSPukp-i2FMafLhknnqLsavOHnTYr0-pM",
+        "expire_date": "2023-09-19T08:47:20.105Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "jbi30a4m40jh3wb5v6wt0u2wq3d5prz0",
+    "fields": {
+        "session_data": ".eJxVjEsOAiEQBe_C2hD5CI1L956BNDQtowaSYWZlvLtOMgvdvqp6LxFxXWpcR5njROIslDj8bgnzo7QN0B3brcvc2zJPSW6K3OmQ107ledndv4OKo35rzA5BKSQPPuviQzpBAEQgMKzZaZWDR6WZObM3lpIDDNYap45GOxDvD_HhN7o:1r6qay:dk_2anKu8QgHwrBKW0jC8AteP-_-3J4pvVx1rMxSpnQ",
+        "expire_date": "2023-12-09T11:13:08.968Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "jn0fkmlzir3af0prr6p7h0ff9kj69e66",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pBSYAou3XsGMsOAVA0kpV0Z765NutDtf-_9lwi4rSVsPS1hZnEWWpx-N8L4SHUHfMd6azK2ui4zyV2RB-3y2jg9L4f7d1Cwl29NAzkLbFkpshFYI04xe4-Os4sA2lgTFYOhRCNBNhMryNarEWDA7MT7A_u8OD0:1sBAxK:-1LTtUMPCS5M69BO5EhaHXxD3nsZNCcvTsGPYtpb_go",
+        "expire_date": "2024-06-09T10:18:22.271Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ooynh9h6rsklgcfnqldvs2bxf3ashq2g",
+    "fields": {
+        "session_data": ".eJxVjEsOAiEQBe_C2hD5CI1L956BNDQtowaSYWZlvLtOMgvdvqp6LxFxXWpcR5njROIslDj8bgnzo7QN0B3brcvc2zJPSW6K3OmQ107ledndv4OKo35rzA5BKSQPPuviQzpBAEQgMKzZaZWDR6WZObM3lpIDDNYap45GOxDvD_HhN7o:1qxDEf:FuiLFqK-D6fewLsO5mKIY2ETPMYAAfwsHnrAA9gRflc",
+        "expire_date": "2023-11-12T21:22:17.333Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "wh4xs1hk35rwm3f1gim39hpsn1vbrkjv",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlnxf0NJnzNYu_7gALKlOKkQdyeRUkD7Zua9mcdtLX7rafFzZFcm2OV3IwzPVA8QH1jvjYdW12Umfij8pJ1PLabX7XT_Dgr2stcGgshETmur9CilcSa7BNYQWociyZGCgiFqMGB1TJTNoKIEbfcEMLDPF8isNyw:1s6Tqh:mVQe8W6zRF38_IOhN1_9kMvEanL9Q_dQ9F4-2g7BI7I",
+        "expire_date": "2024-05-27T11:28:07.502Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-09-05T08:52:05.331Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "djangoadmin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-09-05T09:27:08.194Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-09-05T09:27:30.723Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Team object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-09-05T09:27:55.987Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Team object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-09-05T09:42:10.695Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Canan",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-10-29T21:31:25.269Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Sedat",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-10-30T08:23:21.267Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-10-30T08:23:47.363Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Martin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-10-30T08:33:45.411Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Martin",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-10-30T08:33:45.415Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Sedat",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-10-30T08:33:45.416Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Canan",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-10-30T08:33:45.417Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Serkan",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-10-30T08:33:45.419Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Nazlý Nazan",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-10-30T08:34:01.548Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-10-30T08:34:32.674Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "7",
+        "object_repr": "Sedat",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-10-30T08:35:11.267Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "8",
+        "object_repr": "Canan",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-10-30T08:35:38.615Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "9",
+        "object_repr": "Nazlý Nazan",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-10-30T08:36:09.085Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "8",
+        "object_repr": "Canan",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-10-30T08:36:17.175Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "9",
+        "object_repr": "Nazlý Nazan",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-10-30T08:36:26.707Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "10",
+        "object_repr": "Nazlý Nazan",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-10-30T08:43:00.525Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "11",
+        "object_repr": "Canan",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-11-25T11:57:56.304Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Ferrari",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2023-11-26T20:57:52.360Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Ferrari",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2023-11-26T20:59:16.428Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Ferrari",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2023-11-26T21:22:12.328Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Ferrari",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2023-11-26T21:23:39.724Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "BMW",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2023-11-29T20:07:23.815Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "11",
+        "object_repr": "Canan",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2023-11-29T20:07:23.828Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "10",
+        "object_repr": "Nazlý Nazan",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2023-11-29T20:07:23.829Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "7",
+        "object_repr": "Sedat",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2023-11-29T20:07:23.831Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Martin",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2023-11-29T20:07:54.627Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Ferrari",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2023-11-29T20:38:54.607Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "12",
+        "object_repr": "Canan",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2023-11-29T20:39:12.211Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "13",
+        "object_repr": "Nazlý Nazan",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2024-03-13T08:21:42.099Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "Toyota",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2024-03-13T08:54:34.394Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Toyota",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2024-05-13T15:23:06.144Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "7",
+        "object_repr": "Ford",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2024-05-13T15:26:01.773Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "8",
+        "object_repr": "Fiat",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]
